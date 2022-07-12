@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizzing:  border-box;
+  
+  
+}
+
+.cardHighlights{
+  min-height: 100px;
+}
+.background-orange{
+  background-color: orange;
+
+}
+.productsBackground{
+  background-color: #FFA500;
+}
+.position{
+      width: 50%;
+      position: 'absolute';
+      resizeMode: 'cover';
+
+      right: 0,
+
+}
+.HomeC{
+  background-color: silver;
+}
+.NavPosition{
+position: fixed;
+}
+
+
+.background-oranges{
+  background-color: #F48328;
+
+}
+
+.Font{
+  font-family: Hind Siliguri;
+  font-size: 50;
+}
+.Fonts{
+  font-family: Josefin Sans;
+  font-weight: 25;
+}
